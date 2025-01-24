@@ -1,0 +1,16 @@
+td{
+    text-align:center;
+    border: black solid 1px;
+    
+}
+.top{
+    background-color: rgb(145, 213, 234);
+}
+.right{
+    background-color: pink;
+    border-right: black solid 1px;
+}
+.numbers{
+    background-color: lavenderblush;
+    color:rgb(248, 6, 46);
+}
